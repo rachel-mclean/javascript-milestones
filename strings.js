@@ -22,5 +22,5 @@ let k = 5;
 let charAtK = waffles.charAt(k);
 console.log("The character at index k of waffles is: " + charAtK);
 waffles = waffles + "a";
-console.log("Appending 'a' to waffles: " + waffles);
+console.log("Appending 'a' to waffles: " + waffles); 
 console.log(`(Using template literals here) My favorite things in the world is ${waffles}$`);
